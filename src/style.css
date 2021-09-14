@@ -1,0 +1,46 @@
+
+
+
+.card-largura{
+    max-width: 18rem;
+}
+
+.imagem-carrossel-1 {
+    object-fit: cover;
+    /* para nao achatar a iamgem*/
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-2 {
+    object-fit: cover;
+    /* para nao achatar a iamgem*/
+    height: 400px;
+}
+
+.font-titulo {
+    font-family: 'Lobster Two', cursive;
+}
+
+.secundario {
+    font-size: 17px;
+}
+
+.cor-especial {
+    color: darkred !important;
+}
+
+.bt-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+   border-color: darkred;
+}
+.card-posicao-img{
+    object-fit: cover;
+    /* para nao achatar a iamgem*/
+    object-position: 0 80%;
+    height:200px;
+}
